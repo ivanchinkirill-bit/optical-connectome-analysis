@@ -1,0 +1,17 @@
+authors:
+- family-names: Connectome Research Team
+  given-names: Optical
+  orcid: https://orcid.org/0000-0000-0000-0000
+cff-version: 1.2.0
+date-released: '2024-12-01'
+keywords:
+- optical connectome
+- bio-photonic
+- brain
+- MRI
+- neuroscience
+license: MIT
+message: If you use this software, please cite it as below.
+title: Optical Connectome Analysis of Human Brain
+url: https://github.com/optical-connectome/optical-connectome-analysis
+version: 1.0.0

@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+*.log
+.DS_Store
+venv/
+*.egg-info/
+*.tar.gz
+optical_connectome_data/
